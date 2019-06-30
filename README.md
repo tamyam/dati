@@ -1,1 +1,3 @@
 # dati
+## License
+MIT
